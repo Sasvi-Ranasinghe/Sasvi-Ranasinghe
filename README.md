@@ -134,31 +134,19 @@
   <img src="https://img.shields.io/badge/Microsoft%20PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white"/>
 </p>
 
-## 📌 Featured Project
+## 📌 Featured Projects
 
 <div align="center">
 
-<a href="https://sasvi-ranasinghe.github.io/Ceylon-Crumbs-Website/INDEX/index.html">
+<a href="https://github.com/Sasvi-Ranasinghe/Ceylon-Crumbs-Website">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sasvi-Ranasinghe&repo=Ceylon-Crumbs-Website&theme=radical&hide_border=true" />
+</a>
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Sasvi-Ranasinghe&repo=Ceylon-Crumbs-Website&theme=radical&hide_border=true" />
-
+<a href="https://github.com/Sasvi-Ranasinghe/Nanotek-Ecommerce-Website-Redesign">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sasvi-Ranasinghe&repo=Nanotek-Ecommerce-Website-Redesign&theme=radical&hide_border=true" />
 </a>
 
 </div>
-
-### 🥐 Ceylon Crumbs
-
-A responsive bakery website developed as part of my Interactive Application Development (IAD) coursework.
-
-✨ Features:
-- Multi-page website design
-- Product catalog
-- Shopping cart functionality
-- Responsive UI/UX
-- HTML, CSS & JavaScript
-
-🔗 **Live Demo:**  
-https://sasvi-ranasinghe.github.io/Ceylon-Crumbs-Website/
 
 ## 🤝 Connect With Me
 
